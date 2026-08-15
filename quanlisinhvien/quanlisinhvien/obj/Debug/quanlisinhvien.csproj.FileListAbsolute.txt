@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\quanlisinhvien\quanlisinhvien\obj\Debug\quanlisinhvien.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\quanlisinhvien\quanlisinhvien\obj\Debug\quanlisinhvien.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\quanlisinhvien\quanlisinhvien\bin\Debug\quanlisinhvien.exe.config
+C:\Users\PC\source\repos\quanlisinhvien\quanlisinhvien\bin\Debug\quanlisinhvien.exe
+C:\Users\PC\source\repos\quanlisinhvien\quanlisinhvien\bin\Debug\quanlisinhvien.pdb
+C:\Users\PC\source\repos\quanlisinhvien\quanlisinhvien\obj\Debug\quanlisinhvien.exe
+C:\Users\PC\source\repos\quanlisinhvien\quanlisinhvien\obj\Debug\quanlisinhvien.pdb
